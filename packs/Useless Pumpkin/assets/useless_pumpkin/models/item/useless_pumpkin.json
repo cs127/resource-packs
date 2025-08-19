@@ -1,0 +1,4 @@
+{
+	"parent": "block/carved_pumpkin",
+	"display": {"head": {"rotation": [0, 180, 0]}}
+}
