@@ -2,9 +2,9 @@
 	"pack":
 	{
 		"description": "Makes you wear carved pumpkins backwards",
-		"min_format": 16, "max_format": 68,
+		"min_format": 16, "max_format": 69,
 		"pack_format": 16,
-		"supported_formats": [16, 68]
+		"supported_formats": [16, 69]
 	},
 	"overlays":
 	{
@@ -17,8 +17,8 @@
 			},
 			{
 				"directory": "v44",
-				"min_format": 44, "max_format": 68,
-				"formats": [44, 68]
+				"min_format": 44, "max_format": 69,
+				"formats": [44, 69]
 			}
 		]
 	}
